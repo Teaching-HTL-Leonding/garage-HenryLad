@@ -1,0 +1,12 @@
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\012_Garage\Garage.Logic\bin\Debug\net8.0\Garage.Logic.deps.json
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\012_Garage\Garage.Logic\bin\Debug\net8.0\Garage.Logic.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\012_Garage\Garage.Logic\bin\Debug\net8.0\Garage.Logic.pdb
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\012_Garage\Garage.Logic\obj\Debug\net8.0\Garage.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\012_Garage\Garage.Logic\obj\Debug\net8.0\Garage.Logic.AssemblyInfoInputs.cache
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\012_Garage\Garage.Logic\obj\Debug\net8.0\Garage.Logic.AssemblyInfo.cs
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\012_Garage\Garage.Logic\obj\Debug\net8.0\Garage.Logic.csproj.CoreCompileInputs.cache
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\012_Garage\Garage.Logic\obj\Debug\net8.0\Garage.Logic.sourcelink.json
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\012_Garage\Garage.Logic\obj\Debug\net8.0\Garage.Logic.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\012_Garage\Garage.Logic\obj\Debug\net8.0\refint\Garage.Logic.dll
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\012_Garage\Garage.Logic\obj\Debug\net8.0\Garage.Logic.pdb
+C:\Users\henry\Dropbox\Htl_Leonding\2_Klasse\Programmieren\012_Garage\Garage.Logic\obj\Debug\net8.0\ref\Garage.Logic.dll
